@@ -34,12 +34,14 @@
 # Modified:	2017-03-28
 #
 # Changelog:
+# 2017-03-28	1.1
+#	- changed input file name to objects.txt
 # 2017-03-28	1.0
 #	- initial version
 #
 
 bucketsInFile="buckets.txt"
-objectsInFile="out15"
+objectsInFile="objects.txt"
 pathPrefix="/solidstate/media/ARRAY1/blobs1/"
 
 def bucketmap(filepath):
