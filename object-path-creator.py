@@ -29,10 +29,6 @@
 # /solidstate/media/ARRAY1/blobs1/e26268ca-9150-11e6-84ed-aa77adbc5732/ddc2ee0f-0fbb-11e7-9d7a-979b6f5f6e76/3/9/B
 # /solidstate/media/ARRAY1/blobs1/e26268ca-9150-11e6-84ed-aa77adbc5732/ddc2ee0f-0fbb-11e7-9d7a-979b6f5f6e76/3/A/0
 #
-# Author: daniel
-# Version: 1.0
-# Modified:	2017-03-28
-#
 # Changelog:
 # 2017-03-28	1.1
 #	- changed input file name to objects.txt
